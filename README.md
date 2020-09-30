@@ -1,1 +1,8 @@
 # Machine_Learning_Examples
+Machine learning examples using data from UCI Machine Learning Repository.
+
+For linear regression: https://archive.ics.uci.edu/ml/datasets/Student+Performance
+Requirements:
+pandas
+numpy
+sklearn
